@@ -1,0 +1,3 @@
+- 👋 Olá, meu nome é Daniel!
+- 👀 Estou interessado em aprender mais sobre as linguagens de programação utilizadas no mercado atual
+- 🌱 Estou aprendendo atualmente sobre a linguagem Java Script, CSS e Html.
